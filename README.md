@@ -19,7 +19,7 @@ You can view the live demo of the website here: [Fokir Live Demo](https://fokir-
 
 For a visual walkthrough of the site, you can watch the video here:
 
-https://github.com/user-attachments/assets/dee21333-3801-4e54-be69-da3e53f4bba4
+https://github.com/user-attachments/assets/a5b61a2a-dee4-4804-b3ba-6673029f4586
 
 > [!NOTE]
 > This website is not responsive and is designed for desktop viewing only.
